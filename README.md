@@ -2,7 +2,7 @@
 
 I am Rishi Tadavarthi.
 
-##About Me
+## About Me
 Currently I am pursuing my Master's final semester in Information Technology at Arizona State University. I have total 3+ years of experience where i worked in TCS in India and also i have Interned at Amazon during summer 2024.
 
 <!--
