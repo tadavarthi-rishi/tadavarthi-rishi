@@ -2,6 +2,9 @@
 
 I am Rishi Tadavarthi.
 
+###About Me
+Currently I am pursuing my Master's final semester in Information Technology at Arizona State University. I have total 3+ years of experience where i worked in TCS in India and also i have Interned at Amazon during summer 2024.
+
 <!--
 **tadavarthi-rishi/tadavarthi-rishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
